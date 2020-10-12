@@ -10,5 +10,5 @@
 
 
 ## 시연영상
-![모형 앞](/readmeFile/SmartBuilding_QRCode.png)
+![모형 앞](/readmeFile/Study_AVR_QRCode.png)
 
