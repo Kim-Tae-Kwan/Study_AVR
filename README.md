@@ -12,3 +12,7 @@
 ## 시연영상
 ![모형 앞](/readmeFile/Study_AVR_QRCode.png)
 
+## 교육 키트 & 터미널
+![모형 앞](/readmeFile/Study_AVR_Hardware.png)
+![모형 앞](/readmeFile/Study_AVR_Terminal.png)
+
